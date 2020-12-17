@@ -41,8 +41,9 @@ export default {
 </script>
 
 <style scoped>
-    .rating{
+    .rating h1 {
         align-content: center;
+        color: #ff0000;
     }
 
 </style>
