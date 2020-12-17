@@ -73,28 +73,28 @@ let dogBreeds = [{
     name: "Redbone Coonhound",
     country: "United States",
     userRaiting: 0,
-    image: 'Redbone Coonhound img'
+    image: 'RedboneCoonhoundimg.jpg'
 },
 {
     id: 12,
-    name: "Test",
-    country: "",
+    name: "Teddy Roosevelt Terrier",
+    country: "United States",
     userRaiting: 0,
-    image: ''
+    image: 'Teddy Roosevelt Terrier img.jpg'
 },
 {
     id: 13,
-    name: "",
-    country: "",
+    name: "Anatolian Shepherd Dog",
+    country: "United States",
     userRaiting: 0,
-    image: ''
+    image: 'Anatolian Shepherd Dog img.jpg'
 },
 {
     id: 14,
-    name: "",
-    country: "",
+    name: "Boston Terrier",
+    country: "United States",
     userRaiting: 0,
-    image: ''
+    image: 'Boston Terrier img.jpg'
 },
 {
     id: 15,
