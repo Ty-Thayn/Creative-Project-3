@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import AllDogs from "@/components/AllDogs.vue"
+import AllDogs from "@/components/AllDogsComponent.vue"
 export default {
   name: 'Home',
   components: {
