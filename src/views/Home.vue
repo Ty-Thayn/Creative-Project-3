@@ -1,18 +1,28 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div>
+    <AllDogs :dogBreeds="dogBreeds"/>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
-
+//import HelloWorld from '@/components/HelloWorld.vue'
+import AllDogs from "../components/AllDogs.vue"
 export default {
   name: 'Home',
   components: {
-    HelloWorld
+    AllDogs
+  },
+  data() {
+    return {
+    }
+  },
+  computed: {
+    dogBreeds(){
+      // console.log("HERE");
+      // console.log(this.$root.$data.allDogBreeds);
+      return this.$root.$data.allDogBreeds;
+    }
   }
 }
 </script>

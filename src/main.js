@@ -5,11 +5,13 @@ import dogBreeds from './dog-breeds'
 Vue.config.productionTip = false
 
 let data = {
-  dogBreeds: dogBreeds,
+  allDogBreeds: dogBreeds,
   favorites: []
 }
 
+//console.log(data);
 new Vue({
   router,
+  data,
   render: h => h(App)
 }).$mount('#app')
