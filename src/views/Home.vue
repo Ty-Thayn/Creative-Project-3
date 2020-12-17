@@ -5,8 +5,6 @@
 </template>
 
 <script>
-// @ is an alias to /src
-//import HelloWorld from '@/components/HelloWorld.vue'
 import AllDogs from "../components/AllDogs.vue"
 export default {
   name: 'Home',
@@ -18,11 +16,9 @@ export default {
     }
   },
   computed: {
-    dogBreeds(){
-      // console.log("HERE");
-      // console.log(this.$root.$data.allDogBreeds);
+    dogBreeds() {
       return this.$root.$data.allDogBreeds;
     }
-  }
+  },
 }
 </script>
