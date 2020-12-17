@@ -101,49 +101,252 @@ let dogBreeds = [{
     name: "Chinook",
     country: "United States",
     userRaiting: 0,
-    image: 'ChinookImg'
+    image: 'ChinookImg.jpg'
 },
 {
     id: 16,
-    name: "",
-    country: "",
+    name: "Toy Fox Terrier",
+    country: "United States",
     userRaiting: 0,
-    image: ''
+    image: 'Toy Fox Terrier img.jpg'
 },
 {
     id: 17,
-    name: "",
-    country: "",
+    name: "Treeing Walker Coonhound",
+    country: "United States",
     userRaiting: 0,
-    image: ''
+    image: 'Treeing Walker Coonhound img.jpg'
 },
 {
     id: 18,
-    name: "",
-    country: "",
+    name: "American Eskimo Dog",
+    country: "United States",
     userRaiting: 0,
-    image: ''
+    image: 'American Eskimo Dog img.jpg'
 },
 {
     id: 19,
-    name: "",
-    country: "",
+    name: "Large Munsterlander",
+    country: "Germany",
     userRaiting: 0,
-    image: ''
+    image: 'Large Munsterlander img.jpg'
 },
 {
     id: 20,
-    name: "",
-    country: "",
+    name: "Jagdterrier",
+    country: "Germany",
     userRaiting: 0,
-    image: ''
+    image: 'Jagdterrier img.jpg'
 },
 {
     id: 21,
-    name: "",
-    country: "",
+    name: "Kromfohrländer",
+    country: "Germany",
     userRaiting: 0,
-    image: ''
+    image: 'Kromfohrländer img.jpg'
+},
+{
+    id: 22,
+    name: "Keeshond",
+    country: "Germany",
+    userRaiting: 0,
+    image: 'Keeshond img.jpg'
+},
+{
+    id: 23,
+    name: "Hovawart",
+    country: "Germany",
+    userRaiting: 0,
+    image: 'Hovawart img.jpg'
+},
+{
+    id: 24,
+    name: "Löwchen",
+    country: "Germany",
+    userRaiting: 0,
+    image: 'Löwchen img.jpg'
+},
+{
+    id: 25,
+    name: "Hanover Hound",
+    country: "Germany",
+    userRaiting: 0,
+    image: 'Hanover Hound img.jpg'
+},
+{
+    id: 26,
+    name: "Leonberger",
+    country: "Germany",
+    userRaiting: 0,
+    image: 'Leonberger img.jpg'
+},
+{
+    id: 27,
+    name: "Dachshund",
+    country: "Germany",
+    userRaiting: 0,
+    image: 'Dachshund img.jpg'
+},
+{
+    id: 28,
+    name: "Dobermann",
+    country: "Germany",
+    userRaiting: 0,
+    image: 'Dobermann img.jpg'
+},
+{
+    id: 29,
+    name: "Borzoi",
+    country: "Russia",
+    userRaiting: 0,
+    image: 'Borzoi img.jpg'
+},
+{
+    id: 30,
+    name: "Laika",
+    country: "Russia",
+    userRaiting: 0,
+    image: 'Laika img.jpg'
+},
+{
+    id: 31,
+    name: "Siberian Husky",
+    country: "Russia",
+    userRaiting: 0,
+    image: 'Siberian Husky img.jpg'
+},
+{
+    id: 32,
+    name: "Russkiy Toy",
+    country: "Russia",
+    userRaiting: 0,
+    image: 'Russkiy Toy img.jpg'
+},
+{
+    id: 33,
+    name: "Akita Inu",
+    country: "Japan",
+    userRaiting: 0,
+    image: 'Akita Inu img.jpg'
+},
+{
+    id: 34,
+    name: "Hokkaido",
+    country: "Japan",
+    userRaiting: 0,
+    image: 'Hokkaido img.jpg'
+},
+{
+    id: 35,
+    name: "Shiba Inu",
+    country: "Japan",
+    userRaiting: 0,
+    image: 'Shiba Inu img.jpg'
+},
+{
+    id: 36,
+    name: "Peruvian Inca Orchid",
+    country: "Peru",
+    userRaiting: 0,
+    image: 'Peruvian Inca Orchid img.jpg'
+},
+{
+    id: 37,
+    name: "Australian Cattle Dog",
+    country: "Australia",
+    userRaiting: 0,
+    image: 'Australian Cattle Dog img.jpg'
+},
+{
+    id: 38,
+    name: "Australian Terrier",
+    country: "Australia",
+    userRaiting: 0,
+    image: 'Australian Terrier img.jpg'
+},
+{
+    id: 39,
+    name: "Australian Kelpie",
+    country: "Australia",
+    userRaiting: 0,
+    image: 'Australian Kelpie img.jpg'
+},
+{
+    id: 40,
+    name: "Drentsche Patrijshond",
+    country: "Netherlands",
+    userRaiting: 0,
+    image: 'Drentsche Patrijshond img.jpg'
+},
+{
+    id: 41,
+    name: "Saarloos wolfdog",
+    country: "Netherlands",
+    userRaiting: 0,
+    image: 'Saarloos wolfdog img.jpg'
+},
+{
+    id: 42,
+    name: "Stabyhoun",
+    country: "Netherlands",
+    userRaiting: 0,
+    image: 'Stabyhoun img.jpg'
+},
+{
+    id: 43,
+    name: "Dutch Shepherd",
+    country: "Netherlands",
+    userRaiting: 0,
+    image: 'Dutch Shepherd img.jpg'
+},
+{
+    id: 44,
+    name: "Kooikerhondje",
+    country: "Netherlands",
+    userRaiting: 0,
+    image: 'Kooikerhondje img.jpg'
+},
+{
+    id: 45,
+    name: "Markiesje",
+    country: "Netherlands",
+    userRaiting: 0,
+    image: 'Markiesje img.jpg'
+},
+{
+    id: 46,
+    name: "Pungsan",
+    country: "Korea",
+    userRaiting: 0,
+    image: 'Pungsan img.jpg'
+},
+{
+    id: 47,
+    name: "Thai Bangkaew Dog",
+    country: "Thailand",
+    userRaiting: 0,
+    image: 'Thai Bangkaew Dog img.jpg'
+},
+{
+    id: 48,
+    name: "Aksaray Malaklisi",
+    country: "Turkey",
+    userRaiting: 0,
+    image: 'Aksaray Malaklisi img.jpg'
+},
+{
+    id: 49,
+    name: "Tazy",
+    country: "Kazakhstan",
+    userRaiting: 0,
+    image: 'Tazy img.jpg'
+},
+{
+    id: 50,
+    name: "Havanese",
+    country: "Cuba",
+    userRaiting: 0,
+    image: 'Havanese img.jpg'
 },
 ]
 

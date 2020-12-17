@@ -22,3 +22,10 @@ export default {
   },
 }
 </script>
+
+<style>
+body{
+  background-color: lightgreen;
+}
+
+</style>
