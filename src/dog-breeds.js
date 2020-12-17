@@ -98,10 +98,10 @@ let dogBreeds = [{
 },
 {
     id: 15,
-    name: "",
-    country: "",
+    name: "Chinook",
+    country: "United States",
     userRaiting: 0,
-    image: ''
+    image: 'ChinookImg'
 },
 {
     id: 16,
