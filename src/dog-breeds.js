@@ -80,7 +80,7 @@ let dogBreeds = [{
     name: "Teddy Roosevelt Terrier",
     country: "United States",
     userRaiting: 0,
-    image: 'Teddy Roosevelt Terrier img.jpg'
+    image: 'TeddyRooseveltTerrierImg.jpg'
 },
 {
     id: 13,
